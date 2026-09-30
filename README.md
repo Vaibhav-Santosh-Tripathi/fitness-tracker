@@ -17,11 +17,11 @@ A command-line Python application designed to help users track their calisthenic
   ```
 
 ## How to Run
-1. Ensure the main script `fitness_tracker_final_version.py` is in your project directory.
+1. Ensure the main script `calisthenics and macro tracker.py` is in your project directory.
 2. Open your terminal or command prompt.
 3. Run the script:
    ```bash
-   python fitness_tracker_final_version.py
+   python calisthenics and macro tracker.py
    ```
 
 ## File Structure
